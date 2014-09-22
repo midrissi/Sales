@@ -1,0 +1,11 @@
+{
+    "name": "order",
+    "description": "The order dataclass module",
+    "version": "0.1",
+    "author": "Mohamed IDRISSI",
+    "keywords": ["wakanda", "ssjs", "dataclass", "model", "order"],
+    "dependencies" : {"underscore" : "https://github.com/documentcloud/underscore.git"},
+    "main": "./dataClass.js",
+    "engines": {"wakanda" : ">=5.0"},
+    "license": "MIT"
+}

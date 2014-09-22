@@ -1,0 +1,11 @@
+{
+    "name": "product",
+    "description": "The product dataclass module",
+    "version": "0.1",
+    "author": "Mohamed IDRISSI",
+    "keywords": ["wakanda", "ssjs", "dataclass", "model", "product"],
+    "dependencies" : {"underscore" : "https://github.com/documentcloud/underscore.git"},
+    "main": "./dataClass.js",
+    "engines": {"wakanda" : ">=5.0"},
+    "license": "MIT"
+}

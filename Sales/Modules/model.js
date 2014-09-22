@@ -1,0 +1,1 @@
+﻿model = new DataStoreCatalog();model.Customer = require('model/customer');model.Category = require('model/category');model.Command = require('model/command');model.Product = require('model/product');model.Order = require('model/order');module.exports = model;

@@ -1,0 +1,11 @@
+{
+    "name": "command",
+    "description": "The command dataclass module",
+    "version": "0.1",
+    "author": "Mohamed IDRISSI",
+    "keywords": ["wakanda", "ssjs", "dataclass", "model", "command"],
+    "dependencies" : {"underscore" : "https://github.com/documentcloud/underscore.git"},
+    "main": "./dataClass.js",
+    "engines": {"wakanda" : ">=5.0"},
+    "license": "MIT"
+}

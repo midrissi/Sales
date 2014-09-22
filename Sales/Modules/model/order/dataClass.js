@@ -1,0 +1,1 @@
+﻿var Order	= new DataClass('Orders', 'public'),	utils		= require('utils');utils.extend(Order, require('./attributes'));utils.extend(Order, require('./methods'));utils.extend(Order, require('./events'));module.exports = Order;

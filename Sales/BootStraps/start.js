@@ -1,0 +1,1 @@
+﻿directory.setLoginListener('loginHandler', 'admin');new SharedWorker("Workers/initData.js", "InitData");

@@ -1,0 +1,1 @@
+﻿require('utils').generateRandomData();if (self.close) {    self.close();}

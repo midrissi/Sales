@@ -1,0 +1,1 @@
+﻿var Product	= new DataClass('Products', 'public'),	utils		= require('utils');utils.extend(Product, require('./attributes'));utils.extend(Product, require('./methods'));utils.extend(Product, require('./events'));module.exports = Product;
